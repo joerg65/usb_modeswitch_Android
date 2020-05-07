@@ -1,4 +1,4 @@
-# Android port of usb_modswitch
+# Android port of usb_modeswitch
 
 The original source code comes from https://www.draisberghof.de/usb_modeswitch/.
 All contribution for this great part of software goes to there!
