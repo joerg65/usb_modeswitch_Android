@@ -20,7 +20,8 @@ You will get the executables:
 [arm64-v8a] Install        : libusb-1.0.so => libs/arm64-v8a/libusb-1.0.so
 [armeabi-v7a] Install        : libusb-1.0.so => libs/armeabi-v7a/libusb-1.0.so
 ```
-Install the executable of your arch to the folder /system/bin or to /vendor/bin on your device
+Install the executable of your arch to the folder /system/bin or to /vendor/bin on your device.
+
 Install the library to the folder /system/lib (armeabi-v7a) or /system/lib64 (armeabi-v7a) on your device.
 
 I use this mainly to switch my 4G modem to Hilink mode:
